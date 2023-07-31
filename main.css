@@ -64,7 +64,7 @@ font-size: 20pt;}
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 20pt;}
 
-.bodyimage{margin: 25px 200px;
+.bodyimage{margin: 5% 15%;
     padding: 20px;
 width: 760px;
 height: 400px;
@@ -73,7 +73,7 @@ background-color: blueviolet;}
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 text-align: center;}
 
-.video{margin: 25px 500px 25px 300px;
+.video{margin: 5% 15%;
     padding: 20px;
     width: 660px ;
     height: 350px;
