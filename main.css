@@ -65,7 +65,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 20pt;}
 
 .bodyimage{margin: 5% 15%;
-    padding: 20px;
+    padding: 16px;
 width: 760px;
 height: 400px;
 background-color: blueviolet;}
@@ -74,7 +74,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 text-align: center;}
 
 .video{margin: 5% 15%;
-    padding: 20px;
+    padding: 16px;
     width: 660px ;
     height: 350px;
     border: 10px;
